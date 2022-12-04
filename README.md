@@ -16,6 +16,12 @@ Linguagem C
 	<b><i>Exercises developed while I reading the Linguagem C (C Language) ebook by Luis Damas.</i></b><br>
 </p>
 
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/LinguagemC?color=6272a4" />
+	<img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/LinguagemC?color=6272a4"/>
+	<img alt="License" src="https://img.shields.io/github/license/mewmewdevart/LinguagemC?color=6272a4"/>
+</p>
+
 Exercises developed during the reading of the book to train the programming logic and the C language. The main subjects treated in the book are, writing of procedures and functions; vectors and strings; pointers; files; structures; dynamic memory; macros etc. It is a true complete reference of the C language.
 
 
